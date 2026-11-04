@@ -1,4 +1,4 @@
-# Hi, I'm Sagar Thapa 👋
+# grettings, I'm Sagar Thapa 👋
 
 Welcome to my cybersecurity portfolio! I am an aspiring cybersecurity professional and recent graduate of the **Google Cybersecurity Certificate** program, complemented by hands-on operational experience through industry job simulations. I specialize in threat analysis, system hardening, log investigation, and security operations.
 
