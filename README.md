@@ -1,7 +1,7 @@
 # Greetings, I'm Sagar Thapa 👋
 
-Aspiring **Cybersecurity Professional** focused on threat analysis, system hardening, log investigation, and security operations.  
-Recently completed the **Google Cybersecurity Professional Certificate** along with hands-on job simulations.
+Aspiring **Cybersecurity Professional** focused on threat analysis, system hardening, log investigation, security operations, and automation.  
+Recently completed the **Google Cybersecurity Professional Certificate** along with hands-on job simulations and Python automation training.
 
 ---
 
@@ -17,6 +17,7 @@ Recently completed the **Google Cybersecurity Professional Certificate** along w
 | Tools of the Trade: Linux and SQL | [Verify](https://coursera.org/verify/M9CXCA3YVMN1) |
 | Assets, Threats, and Vulnerabilities | [Verify](https://coursera.org/verify/CNX3J84JSAVS) |
 | Sound the Alarm: Detection and Response | [Verify](https://coursera.org/verify/IP8KADS6Q3XG) |
+| Automate Cybersecurity Tasks with Python | [Verify](https://coursera.org/verify/GZJR718KCC0M) |
 
 **Additional Training**
 - Datacom Cyber Security Operations Job Simulation (Forage) — October 2026
@@ -37,6 +38,9 @@ Recently completed the **Google Cybersecurity Professional Certificate** along w
 - **Risk Assessment & Hardening**  
   Recommending MFA, firewall ACLs, strong password policies, and least-privilege access controls.
 
+- **Python for Cybersecurity**  
+  Automating security tasks such as updating IP allow lists, file handling, and basic scripting for operational efficiency.
+
 ---
 
 ## 📁 Featured Projects
@@ -47,6 +51,7 @@ Recently completed the **Google Cybersecurity Professional Certificate** along w
 | [SQL Security Log Analysis](https://github.com/lordsagarsama-del/sql-security-log-analysis) | Investigated authentication logs with advanced SQL filters to detect after-hours failed logins and foreign traffic. |
 | [Incident Response & Network Analysis](https://github.com/lordsagarsama-del/incident-response-network-analysis) | Diagnosed DNS service failure and SYN flood attack; documented response using the NIST framework. |
 | [Security Risk Assessment & Hardening](https://github.com/lordsagarsama-del/security-risk-assessment-hardening) | Performed risk assessment and recommended enterprise hardening controls (MFA, firewall ACLs, credential policies). |
+| [Python IP Allow List Automation](https://github.com/lordsagarsama-del/python-ip-allowlist-automation) | Built a Python script to automatically update an IP allow list by removing unauthorized addresses from a text file. |
 
 ---
 
